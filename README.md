@@ -2,6 +2,28 @@
 
 Welcome to the README for the homepage layout of our DevOps and SysOps-themed website. Below you will find a detailed description of each section of the homepage. This guide aims to provide clarity on the design, functionality, and content of each part of the homepage.
 
+
+
+---
+
+## Accessing the Project on GitHub
+
+**Accessing the Project on GitHub**
+
+This project is hosted on GitHub and can be accessed through the following repository:
+
+[**atlascopcosaurus/portfolio**](https://github.com/atlascopcosaurus/portfolio)
+
+Feel free to explore the repository for source code, documentation, and other relevant project materials. Contributions, suggestions, and feedback are always welcome.
+
+---
+
+## Interactive Walkthrough
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KE3SQK8wqw0" title="Figma tutorial: Christmas Toggle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+---
 ## Project Structure
 
 ```bash
