@@ -20,7 +20,7 @@ Feel free to explore the repository for source code, documentation, and other re
 
 ## Interactive Walkthrough
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KE3SQK8wqw0" title="Figma tutorial: Christmas Toggle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4WZ77OGV9uw" title="Figma tutorial: Christmas Toggle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ---
